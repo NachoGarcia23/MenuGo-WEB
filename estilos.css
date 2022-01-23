@@ -60,6 +60,7 @@ ul{
     height: 50px;
     border-radius: 50px;
     cursor: pointer;
+    background-color: rgb(116, 236, 116);
 }
 
 .clientes{
@@ -69,6 +70,7 @@ ul{
     margin-left: 30px;
     border-radius: 50px;
     cursor: pointer;
+    background-color: rgb(116, 236, 116);
 }
 
 
