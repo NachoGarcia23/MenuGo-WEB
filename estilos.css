@@ -35,7 +35,7 @@ ul{
 .nav-menu{
     color: white;
     display: flex;
-    padding-left: 15px;
+    margin-left: 15px;
 }
 
 .menu-listado{
@@ -50,14 +50,14 @@ ul{
 
 .test{
     position: relative;
-    left: 490px;
+    left: 450px;
     width: 160px;
     height: 50px;
 }
 
 .clientes{
     position: relative;
-    left: 500px;
+    left: 470px;
     width: 160px;
     height: 50px;
 }
@@ -65,9 +65,33 @@ ul{
 .texto-main{
     display: flex;
     position: relative;
-    border: tomato 2px solid;
-    top: 40px;
-    left: 80px;
-    width: 500px;
-    height: 300px;
+    width: 0%;
+    top: 90px;
+    left: 95px;
+    width: 900px;
+    height: 400px;
+}
+
+.texto-main1{
+    font-family: 'Franklin Gothic Regular';
+    font-size: 80px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+
+.ejemplo-telefono{
+    display: flex;
+    position: relative;
+    left: 795px;
+    bottom: 450px;
+}
+
+.texto-main2{
+    position: relative;
+    width: 480px;
+    bottom: 95px;
+    left: 95px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Regular', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
 }
