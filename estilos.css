@@ -73,7 +73,7 @@ ul{
     width: 160px;
     height: 48px;
     border-radius: 50px;
-    background: rgba(177, 254, 173, .2);
+    background: rgba(177, 254, 173, .4);
     left: -105%;
     top: -4%;
     transition: .4s;
@@ -94,6 +94,22 @@ ul{
     border: #94ff8f 2px solid;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
+    overflow: hidden;
+}
+
+.clientes span{
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    border-radius: 50px;
+    background: rgba(177, 254, 173, .7);
+    left: -105%;
+    top: -4%;
+    transition: .4s;
+}
+
+.clientes:hover span{
+    left: -3%;
 }
 
 
