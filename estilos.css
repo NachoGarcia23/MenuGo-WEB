@@ -65,6 +65,22 @@ ul{
     color: #94ff8f;
     font-weight: 500;
     font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+
+.test span{
+    position: absolute;
+    width: 160px;
+    height: 48px;
+    border-radius: 50px;
+    background: rgba(177, 254, 173, .2);
+    left: -105%;
+    top: -4%;
+    transition: .4s;
+}
+
+.test:hover span{
+    left: -3%;
 }
 
 .clientes{
