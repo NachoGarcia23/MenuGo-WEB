@@ -108,11 +108,11 @@ ul{
 
 @media (max-width: 1366px){
     .texto-main1{
-        font-size: 70px;
+        font-size: 68px;
     }
     .texto-main2{
         font-size: 22px;
-        bottom: 110px;
+        bottom: 130px;
     }
     .ejemplo-telefono{
         width: 470px;
