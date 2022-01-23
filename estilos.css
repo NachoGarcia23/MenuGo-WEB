@@ -7,6 +7,7 @@ html,body{
     margin: 0;
     padding: 0;
     background-color: #dadada;
+    font-family: 'Poppins', sans-serif;
 }
 
 header{
@@ -27,7 +28,7 @@ ul{
 .logo{
     display: flex;
     padding-top:8px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     padding-left: 13px;
 }
 
@@ -59,4 +60,14 @@ ul{
     left: 500px;
     width: 160px;
     height: 50px;
+}
+
+.texto-main{
+    display: flex;
+    position: relative;
+    border: tomato 2px solid;
+    top: 40px;
+    left: 80px;
+    width: 500px;
+    height: 300px;
 }
