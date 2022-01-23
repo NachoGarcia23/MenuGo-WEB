@@ -75,7 +75,9 @@ ul{
     border-radius: 50px;
     cursor: pointer;
     background-color:  #94ff8f;
-    border-color: #94ff8f;
+    border: #94ff8f 2px solid;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
 }
 
 
